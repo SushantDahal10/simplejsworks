@@ -1,0 +1,12 @@
+input{width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    padding-bottom: 30px;
+}
+.btn-save{
+    padding:10px 20px ;
+    border: none;
+    margin-bottom: 20px;
+}
